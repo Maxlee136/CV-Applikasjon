@@ -23,7 +23,7 @@ const ProfilePage: React.FC = () => {
                     name: 'Jeppe Strømberg',
                     role: 'Student',
                     image: 'https://media.licdn.com/dms/image/D4D03AQGKAVaAlR8jmg/profile-displayphoto-shrink_800_800/0/1705926113512?e=1719446400&v=beta&t=ZGBnb3P0bscirZZaJLcHa59END-dVgTfz8qdL_sq6Io',
-                    description: 'Another profile description here.',
+                    description: 'Jeg er en utadvendt, vennlig og pliktoppfyllende student ved Universitetet i Agder, der jeg studerer IT- og informasjonssystemer. Min lidenskap for IT har vokst gjennom hele bachelorstudiet mitt, og jeg har opparbeidet meg betydelig erfaring på dette feltet. Jeg er svært interessert i muligheten til å utføre praksis hos dere, da jeg har gjort research om deres arbeid, og syntes det virker veldig interressant',
                     LinkToCV: 'https://drive.google.com/file/d/1B_LLOPTPvEWvczAyP6RKXYc53YQhv0p-/view?usp=sharing',
 
                 },
