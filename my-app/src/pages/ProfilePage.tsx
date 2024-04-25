@@ -15,15 +15,17 @@ const ProfilePage: React.FC = () => {
                     name: 'Max Lee',
                     role: 'Student',
                     image: 'https://media.licdn.com/dms/image/D4D03AQFPOKdKGlBA0w/profile-displayphoto-shrink_800_800/0/1708106515253?e=1719446400&v=beta&t=0a3tBJ9Ea7YB1EKeP2daJmiLrQX_qvjl9igbSBeh--E',
-                    LinkToCV: 'https://drive.google.com/file/d/1siBjtgegJcGXDxzm8MEJ8u1zNjgSE_bq/view?usp=drive_link',
-                    description: 'Jeg er en blid student med en passion for programmering. Trives best med fullstack hvor jeg har erfaring med React og Java Springboot. Klikk på kortet mitt for å lære mer om meg'
+                    LinkToCV: 'https://drive.google.com/file/d/17umC7BEtpukaAYiAra28qE1aSt2CaHju/view?usp=sharing',
+                    description: 'Jeg er en blid student med en passion for programmering. Har erfaring innen fullstack hvor jeg har erfaring med React og Java Springboot. Jeg mener at samarbeid mot et felles mål er nøkkelen til å lykkes. Praksis handler om å kunne tilegne seg kunnskap, men også forhåpentligvis bringe ny innsikt til arbeidsplassen.  '
                 },
                 {
                     id: 2,
                     name: 'Jeppe Strømberg',
                     role: 'Student',
                     image: 'https://media.licdn.com/dms/image/D4D03AQGKAVaAlR8jmg/profile-displayphoto-shrink_800_800/0/1705926113512?e=1719446400&v=beta&t=ZGBnb3P0bscirZZaJLcHa59END-dVgTfz8qdL_sq6Io',
-                    description: 'Another profile description here.'
+                    description: 'Another profile description here.',
+                    LinkToCV: 'https://drive.google.com/file/d/1B_LLOPTPvEWvczAyP6RKXYc53YQhv0p-/view?usp=sharing',
+
                 },
                 {
                     id: 3,
