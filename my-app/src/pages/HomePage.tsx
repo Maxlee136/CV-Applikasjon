@@ -15,7 +15,7 @@ const HomePage: React.FC = () => {
             name: 'Jeppe',
             role: 'Student',
             image: 'https://media.licdn.com/dms/image/D4D03AQGKAVaAlR8jmg/profile-displayphoto-shrink_800_800/0/1705926113512?e=1719446400&v=beta&t=ZGBnb3P0bscirZZaJLcHa59END-dVgTfz8qdL_sq6Io',
-            description: 'Hei! Jeg er en IT Student'
+            description: 'Hei! Jeg er en IT Student, som vil søke praksisplass hos dere på Egde. Trykk på kortet mitt for å lære mer om meg'
         },
         {
             id: 3,

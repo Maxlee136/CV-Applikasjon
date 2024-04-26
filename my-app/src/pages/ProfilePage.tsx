@@ -16,7 +16,7 @@ const ProfilePage: React.FC = () => {
                     role: 'Student',
                     image: 'https://media.licdn.com/dms/image/D4D03AQFPOKdKGlBA0w/profile-displayphoto-shrink_800_800/0/1708106515253?e=1719446400&v=beta&t=0a3tBJ9Ea7YB1EKeP2daJmiLrQX_qvjl9igbSBeh--E',
                     LinkToCV: 'https://drive.google.com/file/d/17umC7BEtpukaAYiAra28qE1aSt2CaHju/view?usp=sharing',
-                    description: 'Jeg er en blid student med en passion for programmering. Har erfaring innen fullstack hvor jeg har erfaring med React og Java Springboot. Jeg mener at samarbeid mot et felles mål er nøkkelen til å lykkes. Praksis handler om å kunne tilegne seg kunnskap, men også forhåpentligvis bringe ny innsikt til arbeidsplassen.  '
+                    description: 'Jeg er en blid student med en passion for programmering. Har erfaring innen fullstack hvor jeg har erfaring med React og Java Springboot. Jeg mener at samarbeid mot et felles mål er nøkkelen til å lykkes. Praksis handler om å kunne tilegne seg kunnskap, men også forhåpentligvis bringe ny innsikt til arbeidsplassen.'
                 },
                 {
                     id: 2,
@@ -32,7 +32,8 @@ const ProfilePage: React.FC = () => {
                     name: 'Andreas Mørkesdal',
                     role: 'Student',
                     image: 'https://media.licdn.com/dms/image/D4E03AQHMFORjvQHEkw/profile-displayphoto-shrink_800_800/0/1712234915388?e=1719446400&v=beta&t=I2PmYMkq3V8k-0IeWMLU49x0snzVLo4Z0p2B3LdOVvQ',
-                    description: 'Another profile description here.',
+                    description: 'Jeg er en 24 år gammel IT student ved Universitetet i Agder, med fagbrev som IKT-servicemedarbeider.\n' +
+                        'Gjennom min erfaring som IKT-servicemedarbeider i Skien kommune har jeg utviklet god forståelse for teknologiens samspill med mennesker og verdien av løsningsorientert tilnærming. Studiet mitt har videreutviklet min kompetanse innen analyse av brukerbehov og design/utvikling av bærekraftige teknologiske løsninger. Egde virker som det ideelle stedet for meg å utvide min kompetanse, og jeg er klar til å bidra med min arbeidsinnsats og samarbeidsevne',
                     LinkToCV: 'https://drive.google.com/file/d/1siBjtgegJcGXDxzm8MEJ8u1zNjgSE_bq/view?usp=drive_link'
                 }
             ];
