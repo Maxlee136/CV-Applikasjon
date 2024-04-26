@@ -5,21 +5,21 @@ const HomePage: React.FC = () => {
     const members: Member[] = [
         {
             id: 1,
-            name: 'Max',
+            name: 'Max Lee',
             role: 'Student',
             image: 'https://media.licdn.com/dms/image/D4D03AQFPOKdKGlBA0w/profile-displayphoto-shrink_800_800/0/1708106515253?e=1719446400&v=beta&t=0a3tBJ9Ea7YB1EKeP2daJmiLrQX_qvjl9igbSBeh--E',
             description: 'Hei! Jeg er en blid student med en passion for programmering. Driver eget firma og jobber på Elkjøp. Klikk på kortet mitt for å lære mer om meg.'
         },
         {
             id: 2,
-            name: 'Jeppe',
+            name: 'Jeppe Strømberg',
             role: 'Student',
             image: 'https://media.licdn.com/dms/image/D4D03AQGKAVaAlR8jmg/profile-displayphoto-shrink_800_800/0/1705926113512?e=1719446400&v=beta&t=ZGBnb3P0bscirZZaJLcHa59END-dVgTfz8qdL_sq6Io',
             description: 'Hei! Jeg er en IT Student, som vil søke praksisplass hos dere på Egde. Trykk på kortet mitt for å lære mer om meg'
         },
         {
             id: 3,
-            name: 'Andreas',
+            name: 'Andreas Mørkesdal',
             role: 'Student',
             image: 'https://media.licdn.com/dms/image/D4E03AQHMFORjvQHEkw/profile-displayphoto-shrink_800_800/0/1712234915388?e=1719446400&v=beta&t=I2PmYMkq3V8k-0IeWMLU49x0snzVLo4Z0p2B3LdOVvQ',
             description: 'Hei! Jeg er en IT student med fagbrev som IKT-servicemedarbeider. Klikk på kortet mitt for å lære mer om meg.'
